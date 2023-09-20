@@ -1,5 +1,3 @@
-Alright, let's address each question in order:
-
 **1. Please prove the following properties:**
 
    a. **The inverse of a rotation matrix \( R \) in \( SO(3) \) is also a rotation matrix, and it is equal to the transpose of \( R \), i.e., \( R^{-1} = R^T \).**
@@ -161,4 +159,3 @@ i. To compute \( R R_{sb}^T \) and \( R_{sb}^T R \), we first need to know the m
 
 ii. The difference between \( R R_{sb}^T \) and \( R_{sb}^T R \) is the order of multiplication. Matrix multiplication is not commutative, meaning \( AB \) is not necessarily equal to \( BA \). The two results represent different transformations or rotations, depending on the context.
 
-Please let me know if you need further explanations or if you have additional questions!
